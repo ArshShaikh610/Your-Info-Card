@@ -8,13 +8,13 @@ A simple Python command-line program that collects your name, age, and favorite 
 - Stores the answers in a Python dictionary
 - Prints a clean formatted card using f-strings
 
-## How to run it
+**How to run it**
 
 Make sure you have Python 3 installed. Then in your terminal:
 
 python3 MiniProject.py
 
-## What I learned
+**What I learned**
 
 - Variables and data types
 - The input() function
@@ -22,7 +22,7 @@ python3 MiniProject.py
 - F-strings
 - Running Python files in VS Code
 
-## Author
+**Author**
 
 Arsh Shaikh 
 Building toward AI engineering
