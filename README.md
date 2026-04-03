@@ -2,7 +2,7 @@
 
 A simple Python command-line program that collects your name, age, and favorite subject, stores them in a dictionary, and displays them in a formatted info card.
 
-## What it does
+**What It Does**
 
 - Asks the user 3 questions using input()
 - Stores the answers in a Python dictionary
