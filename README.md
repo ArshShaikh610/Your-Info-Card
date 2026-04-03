@@ -1,4 +1,4 @@
-# Personal Info Card
+# Personal Info Card (MiniProject.py)
 
 A simple Python command-line program that collects your name, age, and favorite subject, stores them in a dictionary, and displays them in a formatted info card.
 
